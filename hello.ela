@@ -1,0 +1,12 @@
+say "Halo dunia!"
+
+let nama = "Elaina"
+say "Selamat datang, " + nama
+
+loop i from 1 to 5:
+    say "Angka: " + i
+
+spell sapa(nama):
+    say "Hei, " + nama + "!"
+
+cast sapa("Proba")
